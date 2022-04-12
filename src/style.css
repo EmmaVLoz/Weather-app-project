@@ -1,0 +1,51 @@
+.current-emoji {
+  font-size: 60px;
+}
+.current-conditions {
+  font-weight: 600;
+}
+.metric {
+  text-decoration: none;
+  color: #24527a;
+  font-size: 12px;
+}
+
+.search-bar {
+  margin-bottom: 10px;
+}
+.six-day {
+  margin-top: 20px;
+  font-size: 12px;
+}
+.today {
+  font-size: 12px;
+}
+.temperature {
+  font-size: 36px;
+  font-weight: 600;
+  padding-top: 0;
+}
+.weather-app {
+  font-family: "PT Sans", sans-serif;
+  border: 1px solid #e7eaf6;
+  border-radius: 10px;
+  max-width: 600px;
+  padding: 10px;
+  background: #fafafa;
+  margin-top: 20px;
+  color: #24527a;
+}
+h1 {
+  font-weight: 700;
+  margin-bottom: 0;
+}
+h2 {
+  font-size: 16px;
+}
+ul {
+  padding: 0;
+  margin: 0;
+}
+li {
+  list-style: none;
+}
