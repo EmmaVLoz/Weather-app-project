@@ -4,6 +4,11 @@
 .current-conditions {
   font-weight: 600;
 }
+.git-link {
+  display: block;
+  text-align: center;
+  font-size: 12px;
+}
 .metric {
   text-decoration: none;
   color: #24527a;
